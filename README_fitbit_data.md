@@ -25,4 +25,4 @@ A PDF version of this description is also available on Brightspace.
 
 
 #### 4. Sharing and Access information
-The students have given consent for the re-use of the data for educational purposes. Therefore the data can **only** be used this purpose. **Do not** share the data with others.
+The students have given consent for the re-use of the data for educational purposes. Therefore the data can **only** be used this purpose. **Do not** share the data with others. Also, the data **should not** be uploaded to GitHub. 
